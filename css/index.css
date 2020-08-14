@@ -1,0 +1,10 @@
+.upper_navigation{
+    background-color: blue;
+}
+.lower_navigation{
+    background-image: url("../images/classroom.jpg");
+    height: 500px;
+}
+.logo{
+    margin:10px;
+}
